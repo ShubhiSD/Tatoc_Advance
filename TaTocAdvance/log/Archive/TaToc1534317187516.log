@@ -1,0 +1,12 @@
+2018-08-15 12:42:58 [TestNG-tests-2] INFO  Log:17 - New driver instantiated
+2018-08-15 12:42:59 [TestNG-tests-3] INFO  Log:17 - New driver instantiated
+2018-08-15 12:43:00 [TestNG-tests-2] INFO  Log:17 - URL path set
+2018-08-15 12:43:01 [TestNG-tests-3] INFO  Log:17 - URL path set
+2018-08-15 12:43:03 [TestNG-tests-2] INFO  Log:17 - symbol=LIMA
+2018-08-15 12:43:04 [TestNG-tests-2] INFO  Log:17 - id query executed
+2018-08-15 12:43:04 [TestNG-tests-2] INFO  Log:17 - name and passkey query executed
+2018-08-15 12:43:04 [TestNG-tests-2] INFO  Log:17 - name and passkey returned from function
+2018-08-15 12:43:07 [TestNG-tests-3] INFO  Log:17 - symbol=KILO
+2018-08-15 12:43:07 [TestNG-tests-3] INFO  Log:17 - id query executed
+2018-08-15 12:43:07 [TestNG-tests-3] INFO  Log:17 - name and passkey query executed
+2018-08-15 12:43:07 [TestNG-tests-3] INFO  Log:17 - name and passkey returned from function

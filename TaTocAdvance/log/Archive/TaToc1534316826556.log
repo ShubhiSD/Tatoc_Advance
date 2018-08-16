@@ -1,0 +1,12 @@
+2018-08-15 12:36:45 [TestNG-tests-2] INFO  Log:17 - New driver instantiated
+2018-08-15 12:36:48 [TestNG-tests-2] INFO  Log:17 - URL path set
+2018-08-15 12:36:50 [TestNG-tests-2] INFO  Log:17 - symbol=ECHO
+2018-08-15 12:36:51 [TestNG-tests-2] INFO  Log:17 - id query executed
+2018-08-15 12:36:51 [TestNG-tests-2] INFO  Log:17 - name and passkey query executed
+2018-08-15 12:36:51 [TestNG-tests-2] INFO  Log:17 - name and passkey returned from function
+2018-08-15 12:36:57 [TestNG-tests-1] INFO  Log:17 - New driver instantiated
+2018-08-15 12:36:59 [TestNG-tests-1] INFO  Log:17 - URL path set
+2018-08-15 12:37:01 [TestNG-tests-1] INFO  Log:17 - symbol=TANGO
+2018-08-15 12:37:01 [TestNG-tests-1] INFO  Log:17 - id query executed
+2018-08-15 12:37:01 [TestNG-tests-1] INFO  Log:17 - name and passkey query executed
+2018-08-15 12:37:01 [TestNG-tests-1] INFO  Log:17 - name and passkey returned from function

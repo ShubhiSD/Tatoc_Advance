@@ -1,0 +1,6 @@
+2018-08-15 11:28:06 [main] INFO  Log:17 - New driver instantiated
+2018-08-15 11:28:07 [main] INFO  Log:17 - URL path set
+2018-08-15 11:28:22 [main] INFO  Log:17 - symbol=LIMA
+2018-08-15 11:28:23 [main] INFO  Log:17 - id query executed
+2018-08-15 11:28:23 [main] INFO  Log:17 - name and passkey query executed
+2018-08-15 11:28:23 [main] INFO  Log:17 - name and passkey returned from function

@@ -1,0 +1,6 @@
+2018-08-15 11:32:30 [main] INFO  Log:17 - New driver instantiated
+2018-08-15 11:32:34 [main] INFO  Log:17 - URL path set
+2018-08-15 11:32:37 [main] INFO  Log:17 - symbol=INDIA
+2018-08-15 11:32:38 [main] INFO  Log:17 - id query executed
+2018-08-15 11:32:38 [main] INFO  Log:17 - name and passkey query executed
+2018-08-15 11:32:38 [main] INFO  Log:17 - name and passkey returned from function

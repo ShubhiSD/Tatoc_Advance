@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="firefox"/>
+  <test thread-count="5" parallel="tests" name="IeTest(failed)">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="QAInfo.TaTocAdvance.tatoc">
+        <methods>
+          <include name="connectToDB"/>
+          <include name="initializeCourse"/>
+          <include name="closeDriver"/>
+          <include name="hoverMenu"/>
+        </methods>
+      </class> <!-- QAInfo.TaTocAdvance.tatoc -->
+    </classes>
+  </test> <!-- IeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

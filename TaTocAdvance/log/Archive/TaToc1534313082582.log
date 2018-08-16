@@ -1,0 +1,14 @@
+2018-08-15 11:34:19 [TestNG-tests-3] INFO  Log:17 - New driver instantiated
+2018-08-15 11:34:20 [TestNG-tests-3] INFO  Log:17 - URL path set
+2018-08-15 11:34:20 [TestNG-tests-2] INFO  Log:17 - New driver instantiated
+2018-08-15 11:34:26 [TestNG-tests-2] INFO  Log:17 - URL path set
+2018-08-15 11:34:27 [TestNG-tests-2] INFO  Log:17 - symbol=ECHO
+2018-08-15 11:34:28 [TestNG-tests-2] INFO  Log:17 - id query executed
+2018-08-15 11:34:28 [TestNG-tests-2] INFO  Log:17 - name and passkey query executed
+2018-08-15 11:34:28 [TestNG-tests-2] INFO  Log:17 - name and passkey returned from function
+2018-08-15 11:34:34 [TestNG-tests-1] INFO  Log:17 - New driver instantiated
+2018-08-15 11:34:36 [TestNG-tests-1] INFO  Log:17 - URL path set
+2018-08-15 11:34:37 [TestNG-tests-1] INFO  Log:17 - symbol=QUEBEC
+2018-08-15 11:34:38 [TestNG-tests-1] INFO  Log:17 - id query executed
+2018-08-15 11:34:38 [TestNG-tests-1] INFO  Log:17 - name and passkey query executed
+2018-08-15 11:34:38 [TestNG-tests-1] INFO  Log:17 - name and passkey returned from function

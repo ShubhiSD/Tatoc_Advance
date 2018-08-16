@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+ <parameter name="browser" value="firefox" /><!--added default value at suit level else parameter will give error -->
+  <test name="FirefoxTest" thread-count="5">
+   <parameter name="browser" value="firefox" />
+    <classes>
+      <class name="QAInfo.TaTocAdvance.tatoc"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="ChromeTest" thread-count="5">
+   <parameter name="browser" value="chrome" />
+    <classes>
+      <class name="QAInfo.TaTocAdvance.tatoc"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="IeTest" thread-count="5">
+   <parameter name="browser" value="ie" />
+    <classes>
+      <class name="QAInfo.TaTocAdvance.tatoc"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

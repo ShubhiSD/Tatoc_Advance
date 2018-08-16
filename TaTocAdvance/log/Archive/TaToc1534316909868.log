@@ -1,0 +1,6 @@
+2018-08-15 12:38:19 [TestNG-tests-2] INFO  Log:17 - New driver instantiated
+2018-08-15 12:38:21 [TestNG-tests-2] INFO  Log:17 - URL path set
+2018-08-15 12:38:23 [TestNG-tests-2] INFO  Log:17 - symbol=ROMEO
+2018-08-15 12:38:25 [TestNG-tests-2] INFO  Log:17 - id query executed
+2018-08-15 12:38:25 [TestNG-tests-2] INFO  Log:17 - name and passkey query executed
+2018-08-15 12:38:25 [TestNG-tests-2] INFO  Log:17 - name and passkey returned from function
