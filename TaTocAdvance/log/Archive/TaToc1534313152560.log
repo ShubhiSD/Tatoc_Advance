@@ -1,8 +1,0 @@
-2018-08-15 11:35:41 [TestNG-tests-3] INFO  Log:17 - New driver instantiated
-2018-08-15 11:35:42 [TestNG-tests-3] INFO  Log:17 - URL path set
-2018-08-15 11:35:44 [TestNG-tests-2] INFO  Log:17 - New driver instantiated
-2018-08-15 11:35:47 [TestNG-tests-2] INFO  Log:17 - URL path set
-2018-08-15 11:35:49 [TestNG-tests-2] INFO  Log:17 - symbol=FOXTROT
-2018-08-15 11:35:50 [TestNG-tests-2] INFO  Log:17 - id query executed
-2018-08-15 11:35:50 [TestNG-tests-2] INFO  Log:17 - name and passkey query executed
-2018-08-15 11:35:50 [TestNG-tests-2] INFO  Log:17 - name and passkey returned from function

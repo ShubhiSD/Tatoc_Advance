@@ -1,6 +1,0 @@
-2018-08-15 12:32:43 [TestNG-tests-2] INFO  Log:17 - New driver instantiated
-2018-08-15 12:32:49 [TestNG-tests-2] INFO  Log:17 - URL path set
-2018-08-15 12:32:53 [TestNG-tests-2] INFO  Log:17 - symbol=HOTEL
-2018-08-15 12:32:54 [TestNG-tests-2] INFO  Log:17 - id query executed
-2018-08-15 12:32:54 [TestNG-tests-2] INFO  Log:17 - name and passkey query executed
-2018-08-15 12:32:54 [TestNG-tests-2] INFO  Log:17 - name and passkey returned from function

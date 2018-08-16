@@ -1,6 +1,0 @@
-2018-08-15 12:40:10 [TestNG-tests-2] INFO  Log:17 - New driver instantiated
-2018-08-15 12:40:12 [TestNG-tests-2] INFO  Log:17 - URL path set
-2018-08-15 12:40:14 [TestNG-tests-2] INFO  Log:17 - symbol=VICTOR
-2018-08-15 12:40:15 [TestNG-tests-2] INFO  Log:17 - id query executed
-2018-08-15 12:40:15 [TestNG-tests-2] INFO  Log:17 - name and passkey query executed
-2018-08-15 12:40:15 [TestNG-tests-2] INFO  Log:17 - name and passkey returned from function
